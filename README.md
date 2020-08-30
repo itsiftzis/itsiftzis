@@ -1,16 +1,37 @@
-### Hi there 👋
+### Curriculum Vitae - Ioannis Tsiftzis
 
-<!--
-**itsiftzis/itsiftzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profile**
+My working experience includes more than 14 years in IT companies, employed as an application software engineer and developer, utilizing a variety of different technologies mostly using the java programming language. I have been working in some very interesting projects for leading telephone companies in Greece, worldwide mobile advertising companies, a greek bank and a couple of public sector and local and regional authorities Greek companies.
+All these years, I have been working in Athens, Greece and I am currently open to opportunities in the software industry that can enhance my career and introduce new challenges. I am enthusiastic with technology and I am always excited in learning and mastering new technology trends.
+My employers and colleagues were satisfied about my work and collaboration because I try to be responsible, making sure that timelines and project goals will be achieved in time, and keeping our customers satisfied.
 
-Here are some ideas to get you started:
+**Industry Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Online Lottery games for an international lottery games operator and service provider.
+* CMS platform customisation.
+* Telecommunications (prepaid/post-paid/charging backend systems)
+* Mobile Marketing & Advertising (sms campaign projects/web applications/mobile crm)
+* In flight entertainment systems for Airlines (fluid design web applications)
+* Banking (Web-Banking portal)
+* Public Administration and Local Government in Greece (cms/web applications)
+* Big Data processing and reporting from Advertising Servers for a global Telecommunications company in Amazon Web Services environment (AWS).
+Skills & Competencies
+* Software Development
+* Design & Analysis
+
+**Career Summary**
+
+* May 2016 - present
+	Agile Actors
+* June 2015 – May  2016
+	C/dialogues LLC
+* Feb 2014 – May 2015
+  mGage LLC
+* Nov 2009 – Jan 2014
+  Velti p.l.c. (NASDAQ: VELT)
+* Nov 2006 – Nov 2009
+  I.S.T. s.a.
+* Oct 2006 – Nov 2006
+	Platon Consultants s.a.
+* Jul 2006 – Oct 2006
+	Wind Hellas (former Tim) s.a.
