@@ -103,3 +103,21 @@ Balkans.
         * Cosmote NCTSITE
 	* Supported client’s UAT for the NCTSITE product on site and fixed minor issues/bugs.
 	* Web Application development in ASP.NET, C#, (MS VisualStudio 08), Oracle 10g, PL/SQL, Javascript, JQuery.
+	
+	* Management Organisation Unit of Development Programmes (Hellenic Ministry of Economy and Finance)
+		* Developed and delivered a Web Service Client Application in java (Axis2, Eclipse).
+		* Designed and developed Oracle Forms for the internal use of the organisation’s employees. (Oracle Forms Developer Suite). Oracle 10g, PL/SQL.
+		* Redesigned, refactored and participated in the first phase of development of the Web Application for the company’s HelpDesk from pure jsp/servlet
+		to ajax-based technologies (NetBeans IDE, ant, ZK framework). 
+
+* Platon Consultants S.A.: Oct 2006 - Nov 2006        
+	* Planning and development of European or Government funded investments for municipalities, public sector and local and regional authorities.
+	* Consulting and guidance to participating to European Funding programmes for private companies.   
+	
+* Wind (former Tim): Jul 2006 - Nov 2006
+	* Part-time job in directory services for Wind mobile subscribers.
+	
+**Qualifications / Affiliations**
+	* MSc in Electrical and Computer Engineering, specialization on Microelectronics and Computers-Intelligent Systems, Democritus University of Thrace
+	Diploma Thesis: Fuzzy Digital Signal Processing Techniques
+	* BSc in Electrical and Computer Engineering, specialization on Electronics and Computers, Democritus University of Thrace
