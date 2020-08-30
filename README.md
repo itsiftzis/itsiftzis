@@ -40,10 +40,10 @@ Skills & Competencies
 **Career History**
 
 * Agile Actors: May 2016 - present **Senior Software Engineer**
-	* Spring core / web mvc / boot application development
-	*Hippo CMS application development
-	*Adobe AEM CMS , OSGi , Apache Sling
-	*Docker
+	* Spring core/web/mvc/boot application development
+	* Hippo CMS application development
+	* Adobe AEM CMS , OSGi , Apache Sling
+	* Docker
 	
 * C/dialogues LLC: June 2015 – May 2016 **Senior Software Engineer**
 C/dialogues is a global mobile marketing company that provides mobile marketing solutions that enable brands, mobile network operators and media companies to design and implement targeted interactive and measurable campaigns.
@@ -57,3 +57,49 @@ mGage is a global mobile engagement provider with more than 15 years of mobile C
 	* Web app development utilising play-framework with java and elementary scala and mongoDB on the backend and angularjs with coffeescript programming languages on the client side tier.
 	* Introduction in Cloud Computing, Big Data processing and reporting with ElasticSearch, core java, python scripting in Amazon Web Services environment.
 	* Analytics Software development and maintenance for in-house company's product development in php, core java.
+	
+* Velti p.l.c.: Nov 2009 – Jan 2014 **Software Engineer**
+Velti is a mobile marketing and advertising software provider company for brands, ad agencies and mobile operators and media groups with offices and customers all over the world.
+	* Implemented and delivered high quality code mainly for backend applications for sms campaign-projects in the US, UAE and Europe.
+	* Re factored and optimized existing implementations for java web applications.
+	* Analysed, diagnosed and solved live issues/bugs in production projects.
+	* Worked in IntelliJ IDE, mainly using J2SE, J2EE(jsp/servlets) with Apache Tomcat web application container, utilising maven/spring frameworks with Oracle
+	DB, following a development-staging-production software development workflow in a Hudson Continuous Integration System.
+	* Close cooperation with Project Managers, Quality Assurance Team and Operations team for successful project delivery to clients during each project’s life
+	cycle.
+	* Developed and participated in development of html5 mobile sites along with their backend tier mainly for US brands like Ford, GM and Subway.
+	* Acquired further experience in html5, css/3, javascript, jquery programming techniques.
+	
+* I.S.T. s.a.:Nov 2006 – Nov 2009 **Software Engineer/Software Development**
+I.S.T. is a medium sized company in Athens, Greece that outsources fine engineers/software developers in major companies and organizations in Greece and the
+Balkans.
+	* Wind Hellas - Wind Value Added Services Project
+	(2nd leading mobile telecommunications company in Greece)
+		* Carried out the UAT and the operation & maintenance of Wind’s prepaid promotion charging engine (java Web Application/backend VAS rating engine) for the company’s mobile subscribers.
+		* Implemented and delivered a statistics extraction and aggregation solution using unix/bash-shell scripting and jsp/servlets in the front end.
+		* Acquired valuable experience in Unix environments and shell scripting.
+		
+	* Ericsson – CYTA IMS Project
+		* Developed and customized an IP Telephony java Web Application used by CYTA (Cyprus Telecommunications Agency) on behalf of Ericsson Greece.
+		* On site UAT and minor bug fixing/change requests.
+		* Used javascript,css and html technologies in the applications front-end and jsp-servlets on the backend.
+		
+	* Ericsson – Vodafone PIPS
+		* Analysed, designed and developed from scratch a java backend module based in J2SE input/output streams, used by Vodafone’s prepaid charging system
+		on behalf of Ericsson Hellas.
+		* Enhanced my Java design patterns techniques and acquired further JUnit testing framework knowledge.
+		
+	* Eurobank EFG – Web Banking Portal
+		* Participated in developers team for designing, analysing and implementing the e-banking portal complying to portlet JSR-168 specifications, using
+		JSP, JSF frameworks in Rational Application Developer for WebSphere Software (Eclipse based IDE).
+		* Collaborated with a large number of people/teams for the web banking project development. Implemented new features, client requests, change
+		requests and bug fixes.
+		
+	* Legal Counsel of Greece 
+		* Participated for a specific development phase of the Greece Legal Counsel’s intra CMS system
+		* Acquired and improved my knowledge in JSF development techniques (Apache MyFaces Tomahawk implementation), JSP, a4j ajax framework for JSF Oracle
+		Jdeveloper IDE,Oracle Application Server Container for JSP,OC4J), Oracle 10g and iBATIS Data Mapping framework.
+ 
+        * Cosmote NCTSITE
+	* Supported client’s UAT for the NCTSITE product on site and fixed minor issues/bugs.
+	* Web Application development in ASP.NET, C#, (MS VisualStudio 08), Oracle 10g, PL/SQL, Javascript, JQuery.
