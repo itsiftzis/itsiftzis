@@ -1,6 +1,7 @@
 ### Curriculum Vitae - Ioannis Tsiftzis
 
 **Profile**
+
 My working experience includes more than 14 years in IT companies, employed as an application software engineer and developer, utilizing a variety of different technologies mostly using the java programming language. I have been working in some very interesting projects for leading telephone companies in Greece, worldwide mobile advertising companies, a greek bank and a couple of public sector and local and regional authorities Greek companies.
 All these years, I have been working in Athens, Greece and I am currently open to opportunities in the software industry that can enhance my career and introduce new challenges. I am enthusiastic with technology and I am always excited in learning and mastering new technology trends.
 My employers and colleagues were satisfied about my work and collaboration because I try to be responsible, making sure that timelines and project goals will be achieved in time, and keeping our customers satisfied.
@@ -35,3 +36,15 @@ Skills & Competencies
 	Platon Consultants s.a.
 * Jul 2006 – Oct 2006
 	Wind Hellas (former Tim) s.a.
+
+**Career History**
+
+* Agile Actors: May 2016 - present **Senior Software Engineer**
+	* Spring core / web mvc / boot application development
+	*Hippo CMS application development
+	*Adobe AEM CMS , OSGi , Apache Sling
+	*Docker
+	
+* C/dialogues LLC: June 2015 – May 2016 **Senior Software Engineer**
+C/dialogues is a global mobile marketing company that provides mobile marketing solutions that enable brands, mobile network operators and media companies to design and implement targeted interactive and measurable campaigns.
+	* Development for the company’s SaaS platform both in the backend and the front-end tier in core java with spring framework and angularjs.
