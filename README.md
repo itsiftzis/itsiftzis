@@ -48,3 +48,12 @@ Skills & Competencies
 * C/dialogues LLC: June 2015 – May 2016 **Senior Software Engineer**
 C/dialogues is a global mobile marketing company that provides mobile marketing solutions that enable brands, mobile network operators and media companies to design and implement targeted interactive and measurable campaigns.
 	* Development for the company’s SaaS platform both in the backend and the front-end tier in core java with spring framework and angularjs.
+
+* mGage LLC: Feb 2014 – June 2015 **Software Engineer**
+mGage is a global mobile engagement provider with more than 15 years of mobile CRM (mCRM) experience.
+	*Backend software engineer / mobile-web site developer
+	* Front end development in In-Flight Entertainment Systems for Panasonic Avionics Corporation. Adaptive design for mobile/tablet/desktop views.
+	* Backend development for web applications with spring framework (spring-mvc, RESTful web service).
+	* Web app development utilising play-framework with java and elementary scala and mongoDB on the backend and angularjs with coffeescript programming languages on the client side tier.
+	* Introduction in Cloud Computing, Big Data processing and reporting with ElasticSearch, core java, python scripting in Amazon Web Services environment.
+	* Analytics Software development and maintenance for in-house company's product development in php, core java.
