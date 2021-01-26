@@ -40,7 +40,7 @@ Skills & Competencies
 **Career History**
 
 * Agile Actors: May 2016 - present **Senior Software Engineer**
-	* Spring core/web/mvc/boot application development
+	* Spring core/web/mvc/boot/cloud-config application development
 	* Hippo CMS application development
 	* Adobe AEM CMS , OSGi , Apache Sling
 	* Docker
