@@ -16,6 +16,7 @@ My employers and colleagues were satisfied about my work and collaboration becau
 * Banking (Web-Banking portal)
 * Public Administration and Local Government in Greece (cms/web applications)
 * Big Data processing and reporting from Advertising Servers for a global Telecommunications company in Amazon Web Services environment (AWS).
+
 Skills & Competencies
 * Software Development
 * Design & Analysis
