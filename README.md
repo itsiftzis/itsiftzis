@@ -24,7 +24,7 @@ Skills & Competencies
 **Career Summary**
 
 * May 2016 - present
-	Agile Actors
+	Agile Actors/Camelot Global
 * June 2015 – May  2016
 	C/dialogues LLC
 * Feb 2014 – May 2015
