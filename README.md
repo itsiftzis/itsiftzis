@@ -7,6 +7,7 @@ All these years, I have been working in Athens, Greece and I am currently open t
 My employers and colleagues were satisfied about my work and collaboration because I try to be responsible, making sure that timelines and project goals will be achieved in time, and keeping our customers satisfied.
 
 **Industry Experience**
+* Trading/Forex for a global broker.
 * Betting/Odds for a worldwide odds comparison provider.
 * Online Lottery games for an international lottery games operator and service provider.
 * CMS platform customisation.
@@ -24,7 +25,7 @@ Skills & Competencies
 **Career Summary**
 
 * May 2016 - present
-	Agile Actors/Camelot Global
+	Agile Actors
 * June 2015 – May  2016
 	C/dialogues LLC
 * Feb 2014 – May 2015
