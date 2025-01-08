@@ -2,7 +2,7 @@
 
 **Profile**
 
-My working experience includes more than 16 years in IT companies, employed as an application software engineer and developer, utilizing a variety of different technologies mostly using the java programming language. I have been working in some very interesting projects for leading telephone companies in Greece, worldwide mobile advertising companies, a greek bank and a couple of public sector and local and regional authorities Greek companies.
+My working experience includes more than 18 years in IT companies, employed as an application software engineer and developer, utilizing a variety of different technologies mostly using the java programming language. I have been working in some very interesting projects for leading telephone companies in Greece, worldwide mobile advertising companies, a greek bank and a couple of public sector and local and regional authorities Greek companies.
 All these years, I have been working in Athens, Greece and I am currently open to opportunities in the software industry that can enhance my career and introduce new challenges. I am enthusiastic with technology and I am always excited in learning and mastering new technology trends.
 My employers and colleagues were satisfied about my work and collaboration because I try to be responsible, making sure that timelines and project goals will be achieved in time, and keeping our customers satisfied.
 
